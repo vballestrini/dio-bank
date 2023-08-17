@@ -1,12 +1,12 @@
 import { DioAccount } from "./DioAccount"
 
 export class CompanyAccount extends DioAccount {
-
-  constructor(name: string, accountNumber: number){
-    super(name, accountNumber)
+  
+  getLoan(value: number): void {
+    if(this.validateStatus()){
+      this.deposit(value)
+      console.log('Você realizou um empréstimo de R$ ' + value.toFixed(2))
+    }
   }
 
-  getLoan = (): void => {
-    console.log('Voce pegou um empréstimo')
-  }
 }
