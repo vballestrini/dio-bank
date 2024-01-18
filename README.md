@@ -87,6 +87,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, feel free to reach out.
+If you have questions, suggestions, or feedback, feel free to reach out.
 
-You can also open an issue in the [Issues](https://github.com/vballestrini/dio-bank/issues) section of this repository.
+- [Víctor Ballestrini](https://github.com/vballestrini/)
+- [Project Issues](https://github.com/vballestrini/dio-bank/issues)
